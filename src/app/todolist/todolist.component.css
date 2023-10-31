@@ -1,0 +1,17 @@
+
+.btn-primary{
+   margin-top: 20px;
+}
+#taskHeading{
+   margin-bottom: 10px;
+}
+
+#checkbox{
+   margin-left: 30px;
+}
+
+.text-removed{
+   opacity: 0.6;
+   text-decoration: line-through;
+}
+
